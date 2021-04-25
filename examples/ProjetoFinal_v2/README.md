@@ -3,6 +3,7 @@
 ## Danilo Brandão Cardoso
 ## RA: 11075613
 Link do código do projeto: https://github.com/danilobrands/abcg/tree/gh-pages/examples/ProjetoFinal_v2
+
 Link do WebAsm: https://danilobrands.github.io/abcg/public/
 
 # Projeto Final
@@ -15,6 +16,3 @@ A câmera é similar a usada no projeto lookat, com os mesmo controles de movime
 
 Consegui compilar para Web Assembly, mas o projeto não funcionou corretamente, com isso fiz um vídeo e alguns prints para tentar mostrar como ficou rodando diretamente.
 
-## Author
-Danilo Brandão
-RA: 11075613
