@@ -35,6 +35,9 @@ class OpenGLWindow : public abcg::OpenGLWindow {
   float m_truckSpeed{0.0f};
   float m_panSpeed{0.0f};
 
+
+  //método para atualizar as coordenadas
+  void atCoordenadas();
   //variaveis para coordenadas
   float eixo_x[19];
   float eixo_y[19];
@@ -51,8 +54,7 @@ class OpenGLWindow : public abcg::OpenGLWindow {
   void loadModelFromFile(std::string_view path);
   void update();
 
-  //método para atualizar as coordenadas
-  void atCoordenadas();
+
 };
 
 #endif

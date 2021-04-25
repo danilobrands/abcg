@@ -1,0 +1,1 @@
+cmd.exe /k "C:\emsdk\emsdk_env.bat"

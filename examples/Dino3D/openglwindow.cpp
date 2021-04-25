@@ -200,9 +200,6 @@ void OpenGLWindow::paintGL() {
   glUniformMatrix4fv(projMatrixLoc, 1, GL_FALSE, &m_camera.m_projMatrix[0][0]);
 
   for(int i = 0; i<19; i++){
-    //float x;
-    
-    //x = x - 4.5f;
 
     // Draw tree
     glm::mat4 model{1.0f};
@@ -210,10 +207,6 @@ void OpenGLWindow::paintGL() {
     model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0, 1, 0));
     model = glm::scale(model, glm::vec3(tamanho[i]));
 
-    //int temp;
-    //float x = 0;
-    //temp = rand() % 5;
-    //x += temp / 1.0f;
 
     glUniformMatrix4fv(modelMatrixLoc, 1, GL_FALSE, &model[0][0]);
     glUniform4f(colorLoc, cor3[i], 1.0f, 0.5f, 1.0f);
