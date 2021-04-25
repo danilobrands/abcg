@@ -16,3 +16,20 @@ A câmera é similar a usada no projeto lookat, com os mesmo controles de movime
 
 Consegui compilar para Web Assembly, mas o projeto não funcionou corretamente, com isso fiz um vídeo e alguns prints para tentar mostrar como ficou rodando diretamente.
 
+Vídeo:
+
+https://youtu.be/TlPUuasHKN0
+
+Prints:
+
+https://drive.google.com/file/d/14h_WQO0RwUUGiBLkbDdYImZgN4sWZZ-8/view?usp=sharing
+
+https://drive.google.com/file/d/1EaYqeHlkGNqAknHESSedUWrF1QPwYERh/view?usp=sharing
+
+https://drive.google.com/file/d/1H9A9JM-Jg5R58a4zixMkAZpN31l5VJro/view?usp=sharing
+
+https://drive.google.com/file/d/1J2ZO1ad1S8WCJ_wvl-7ZXPv5xgNoerzk/view?usp=sharing
+
+https://drive.google.com/file/d/1TTun2xnvjZVqu4-xSsooEJHkjPqo_48s/view?usp=sharing
+
+https://drive.google.com/file/d/1sqoeOOutHjuI3n1LBQLhGDbDMrCU3DF9/view?usp=sharing
